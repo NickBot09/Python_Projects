@@ -1,2 +1,2 @@
-# Password_Generator
-This is a simple password generator created using python.
+#My_Python_Projects
+Collection of all the python projects created by me.
