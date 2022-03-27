@@ -1,0 +1,1 @@
+word_list = ['cat', 'dog', 'icecream', 'club', 'pizza', 'chocolate', 'nikhil', 'bottle', 'wavy', 'fire', 'water', 'iphone', 'coder']
